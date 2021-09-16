@@ -1,4 +1,6 @@
-# Guess My Number
+# Modal Window
+
+Simple project to show and close some modal windows on button click
 
 >
 
@@ -15,7 +17,9 @@
 
 ## General Information
 
-- <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Project build as part of JS course to learn how to manipulate classes
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
 
@@ -25,7 +29,10 @@
 
 ## How the project works
 
--
+- There are 3 buttons
+- Each button opens a different window
+- In each window there is a button to close it
+- Modal window also closes on Esc press
 
 ## Setup
 
